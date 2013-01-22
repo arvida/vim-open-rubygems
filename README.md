@@ -15,6 +15,10 @@ Using [pathogen.vim](https://github.com/tpope/vim-pathogen):
     
 Otherwise just copy the contents of open-rubygems.vim's plugin folder to `~/.vim/plugins/`.
 
+## Requirements
+
+Mac OS X as open-rubygems.vim currently relies on the `open` shell command.
+
 ## Contributing
 
 You are very welcome to contibute. Do a pull request or issue on [github](https://github.com/arvida/vim-open-rubygems).
