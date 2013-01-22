@@ -4,7 +4,7 @@ Easily open the [rubygems.org](http://rubygems.org/) page for gem from Vim.
 
 ## Usage
 
-Use `:Gem rails` to open up [rails on rubygems.org](http://rubygems.org/gems/rails). If the cursor is on a gem name you can use `:Gem` to open up rubygems.org for that gem.
+Use `:Gem rails` to open up [rails on rubygems.org](http://rubygems.org/gems/rails). If the cursor is located on a gem name you can use `:Gem` to open up the rubygems.org page for that gem.
 
 ## Installation
 
