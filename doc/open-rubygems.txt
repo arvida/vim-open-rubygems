@@ -1,0 +1,14 @@
+*open-rubygems.txt*  Open rubygems.org for a gem
+
+Author:  Arvid Andersson <http://blog.arvidandersson.se/>
+Repo:    https://github.com/arvida/vim-open-rubygems
+License: Same terms as Vim itself (see |license|)
+
+SUMMARY                                         *open-rubygems*
+
+Easily open the rubygems.org page for gem from Vim.
+
+                                                *open-rubygems-:Gem*
+:Gem [{gem-name}]     Use :Gem rails to open up rails on rubygems.org.
+                      If the cursor is located on a gem name you can
+                      use :Gem to open up the rubygems.org page for that gem.
