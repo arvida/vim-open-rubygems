@@ -1,7 +1,7 @@
-if exists("g:loaded_GemResolver") || &cp
+if exists("g:loaded_OpenRubyGems") || &cp
   finish
 endif
-let g:loaded_GemResolver= 0
+let g:loaded_OpenRubyGems= 0
 let s:keepcpo           = &cpo
 set cpo&vim
 
