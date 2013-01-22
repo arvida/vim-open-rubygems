@@ -17,7 +17,7 @@ Otherwise just copy the contents of open-rubygems.vim's plugin folder to `~/.vim
 
 ## Requirements
 
-Mac OS X as open-rubygems.vim currently relies on the `open` shell command.
+Mac OS X - open-rubygems.vim currently relies on the `open` shell command.
 
 ## Contributing
 
